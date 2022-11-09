@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "fcac3ffd8d9d7399",
+        "id": "4d3e635212fc3b0b",
         "type": "tabs",
         "children": [
           {
-            "id": "33fdb26c066ab414",
+            "id": "1c53825c3c6b4428",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ыыыы.md",
+                "file": "Механики.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb03c0b857c23c46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Гейплей.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,6 +78,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "f67355b39285005d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33fdb26c066ab414",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -85,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ыыыы.md",
+                "file": "Механики.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ыыыы.md",
+                "file": "Механики.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ыыыы.md"
+                "file": "Механики.md"
               }
             }
           }
@@ -136,9 +162,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "33fdb26c066ab414",
+  "active": "1c53825c3c6b4428",
   "lastOpenFiles": [
-    "Чикибомбони.md",
-    "ыыыы.md"
+    "Игра про девочку.md",
+    "Гейплей.md",
+    "Механики.md",
+    "ыыыы.md",
+    "Чикибомбони.md"
   ]
 }
